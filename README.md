@@ -1,2 +1,2 @@
-# cpsc121-gladiatorfight
+# gladiatorfight
  
